@@ -2,8 +2,7 @@
 trial: true,
 offserver: true,
 trolldamage: true,
-installer: {
+installer: true,
 github: "https://github.com/fractioner/externalcl",
-on: true
-}
+oninstall: true
 }
