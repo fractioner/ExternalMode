@@ -6,3 +6,4 @@ installer: {
 github: "https://github.com/fractioner/externalcl",
 on: true
 }
+}
