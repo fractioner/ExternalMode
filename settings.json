@@ -4,5 +4,5 @@
 "trolldamage": true,
 "installer": true,
 "github": "https://github.com/fractioner/externalcl",
-"oninstall": true
+"oninstall": false
 }
