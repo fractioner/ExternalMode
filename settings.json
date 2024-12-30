@@ -1,8 +1,8 @@
 {
-trial: true,
-offserver: false,
-trolldamage: true,
-installer: true,
-github: "https://github.com/fractioner/externalcl",
-oninstall: true
+"trial": true,
+"offserver": false,
+"trolldamage": true,
+"installer": true,
+"github": "https://github.com/fractioner/externalcl",
+"oninstall": true
 }
