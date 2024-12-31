@@ -1,6 +1,6 @@
 {
 "trial": true,
-"offserver": true,
-"fix": false,
+"offserver": false,
+"fix": true,
 "version": "1.0"
 }
