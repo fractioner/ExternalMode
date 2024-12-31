@@ -1,8 +1,6 @@
 {
 "trial": true,
 "offserver": false,
-"trolldamage": true,
-"installer": true,
-"github": "https://github.com/fractioner/externalcl",
-"oninstall": false
+"fix": false,
+"version": "1.0"
 }
